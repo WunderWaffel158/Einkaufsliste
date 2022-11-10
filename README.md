@@ -4,6 +4,7 @@
 #### Bildungsweg
 * Zirpgarten
 * Schlurpschule
+* Bodylosion
 
 #### Arbeitserfahrung
 * Brotlose Kunst (*Spezialisierung auf Kuchen*)
